@@ -57,12 +57,12 @@ likely to change in the near future.
 CAMex is a very simple wrapper for Exiftool that extracts specific metadata and
 saves it to a file in CSV format. Once you have a working version of Exiftool
 installed, you can use CAMex in a couple of different ways:
-1. You can run the shell script in [./bin/camex.sh](file:///./bin/camex.sh)
+1. You can run the shell script `./bin/camex.sh`
 2. (On a Mac) You can use an Automator Workflow extension from the Finder
 
 ### 1. Run a shell script ###
 
-Simply invoke the shell script in [./bin/camex.sh](file:///./bin/camex.sh) with
+Simply invoke the shell script `./bin/camex.sh <filename1> [filenameX]` with
 one or more arguments. Each argument should be the filename of a media file or a
 directory containing media files. A new file will be created with all the relevant
 metadata.
