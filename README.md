@@ -140,6 +140,7 @@ the corresponding Resolve Tags:
 | Lens Type            | LensInfo             | 18-55mm f/2.8-4      |
 | Shutter              | ShutterSpeed         | 1/48                 |
 | White Balance Tint   | WhiteBalance         | Auto                 |
+| Comments             | VideoRecordingMode   | F-Log                |
 
 ## Disclaimer ##
 
